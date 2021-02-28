@@ -16,6 +16,8 @@ Operating System Windows 8
 #define SIZE 50
 char variables[SIZE][3];
 int variablesCount=0;
+//denemeler burada
+
 typedef struct st // struct is defined
 {
 	char qu[SIZE];
@@ -359,7 +361,7 @@ int solvingThePostFix(char postFix[]) //for solve the postFix equation, and calc
 		{
 			temp=pop(&st); //for space character
 			number11=pop(&st); //for variable
-			number12=pop(&st); //this can be variable or space character. Ýf This is a variable this means variable is not single digit
+			number12=pop(&st); //this can be variable or space character. ï¿½f This is a variable this means variable is not single digit
 			if(number12==' ')//this means variable is single character
 			{
 				variable1=charToInteger(number11);
