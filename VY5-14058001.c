@@ -17,7 +17,8 @@ Operating System Windows 8
 char variables[SIZE][3];
 int variablesCount=0;
 //denemeler burada1
-
+bool stash = false;
+bool stash1=true;
 typedef struct st // struct is defined
 {
 	char qu[SIZE];
