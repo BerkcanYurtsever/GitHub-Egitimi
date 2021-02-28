@@ -16,7 +16,11 @@ Operating System Windows 8
 #define SIZE 50
 char variables[SIZE][3];
 int variablesCount=0;
+<<<<<<< HEAD
 //denemeler burada egeehehehehhe
+=======
+//denemeler burada1
+>>>>>>> yeniAdmin
 
 typedef struct st // struct is defined
 {
