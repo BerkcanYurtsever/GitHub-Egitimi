@@ -16,7 +16,7 @@ Operating System Windows 8
 #define SIZE 50
 char variables[SIZE][3];
 int variablesCount=0;
-//denemeler burada
+//denemeler burada egeehehehehhe
 
 typedef struct st // struct is defined
 {
